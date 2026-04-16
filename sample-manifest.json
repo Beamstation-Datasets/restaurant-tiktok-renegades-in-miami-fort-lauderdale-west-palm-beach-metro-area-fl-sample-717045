@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b4adff96-d5db-4218-9944-82b79e02b6c1",
+  "id_short": 717045,
+  "published_at": "2026-04-16T19:02:12Z",
+  "repo_name": "restaurant-tiktok-renegades-in-miami-fort-lauderdale-west-palm-beach-metro-area-fl-sample-717045",
+  "sample_asset_name": "beamstation_717045_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/717045/beamstation_717045_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "3ce86fa5e9bd49211846114842df5995a241dfe1dd4fe571256e89f77b982fef",
+  "sample_size_bytes": 100912,
+  "total_records": 210
+}

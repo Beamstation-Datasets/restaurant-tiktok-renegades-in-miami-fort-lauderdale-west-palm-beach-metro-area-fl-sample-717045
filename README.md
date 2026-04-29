@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Miami-Fort Lauderdale-West Palm Beach Metro Area, FL, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `717045` |
 | Location | Miami-Fort Lauderdale-West Palm Beach, FL |
 | Category | Restaurants |
-| Full dataset size | 125 records |
-| Free sample size | 12 records (9.6%) |
-| Last export | 2026-04-22T17:09:08.350863+00:00 |
+| Full dataset size | 222 records |
+| Free sample size | 22 records (9.91%) |
+| Last export | 2026-04-29T16:59:26.454621+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-miami-fort-lauderdale-west-palm-beach-metro-area-fl-sample-717045/releases/download/sample-latest/beamstation_717045_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
